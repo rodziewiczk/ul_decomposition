@@ -1,4 +1,4 @@
-# UL Decomposition (Doolittle-style) – Numerical Methods Project (MATLAB)
+# UL Decomposition – Numerical Methods Project (MATLAB)
 
 This repository contains an implementation of **UL factorization**, along with utilities to compute a matrix determinant, an inverse (via UL), and to solve right-sided linear systems of the form **X·A = B**.
 
@@ -10,4 +10,5 @@ This repository contains an implementation of **UL factorization**, along with u
 
 ## Project Structure
 - `src/` – core functions (UL, inverse/det, solvers, validation)
+
 - `scripts/` – examples and tests
